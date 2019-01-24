@@ -6,7 +6,7 @@
 	"pluginsConfig": {
 		"add-js-css": {
 		  "css": [
-			"./styles/website.css"
+			"styles/website.css"
 		  ]
 		}
 	  }
