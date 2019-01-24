@@ -1,6 +1,6 @@
 {
 	"gitbook": "3.2.2",
-	"title": "Hifi",
+	"title": "Hifi test",
 	"description": "HiFi Test",
 	"plugins": ["add-js-css"],
 	"pluginsConfig": {
